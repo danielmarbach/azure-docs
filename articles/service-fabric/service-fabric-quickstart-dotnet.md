@@ -26,7 +26,7 @@ This quickstart shows how to deploy your first .NET application to Service Fabri
 
 ![Application Screenshot](./media/service-fabric-quickstart-dotnet/application-screenshot.png)
 
-Using this application you learn how to:
+Using this application, you learn how to:
 > [!div class="checklist"]
 > * Create an application using .NET and Service Fabric
 > * Use ASP.NET core as a web front-end
